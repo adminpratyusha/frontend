@@ -96,13 +96,6 @@ If you want to contribute to this Angular application, feel free to fork the rep
 This Angular application is licensed under the [MIT License](LICENSE).
 
  
-
-## Contact
-
- 
-
-If you have any questions or suggestions regarding this Angular application, please feel free to contact us at [email@example.com](mailto:email@example.com).
-
  
 
 Enjoy coding with Angular!
